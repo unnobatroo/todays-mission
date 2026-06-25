@@ -15,7 +15,7 @@ const DEFAULT_ACTIVITIES = [
     "Spend time around animals.", "Visit a forest.", "Turn off your phone.", "Burn a nice smelling candle.",
     "Learn how to knit.", "Reorganize your kitchen cabinet.", "Play dress up."
 ];
-
+ 
 const STORAGE_KEYS = {
     savedActivities: "savedActivities",
     currentActivity: "currentActivity",
